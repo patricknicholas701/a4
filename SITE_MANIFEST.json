@@ -1,0 +1,207 @@
+{
+  "domain": "parmigianameet",
+  "niche": "Artisanal Parmigiana Gastronomy & Evening Dining",
+  "design_concept": "Warm Sepia & Roasted Timber Atelier",
+  "archetype_id": "sepia_timber",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "parmigiana_meet_01_2019-05-11_20_41_12_Tour_of_It.jpg",
+      "size_kb": 212.58,
+      "md5": "cd120ba7fbe395a6423e9f6c73c90ef2",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: 2019 05 11 20 41 12 Tour of It",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "parmigiana_meet_02_2020-03-14_21_39_52_Tour_of_It.jpg",
+      "size_kb": 215.23,
+      "md5": "92d57da2461b0b4c3e5b8669f2d27e24",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: 2020 03 14 21 39 52 Tour of It",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "parmigiana_meet_03_2022-05-28_21_50_16_Tour_of_It.jpg",
+      "size_kb": 261.22,
+      "md5": "08e39df39a837ab2f5956627c88cc789",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: 2022 05 28 21 50 16 Tour of It",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "parmigiana_meet_04_2025-01-25_20_16_56_Tour_of_It.jpg",
+      "size_kb": 230.79,
+      "md5": "b3cf180a0fd5cd9829b1bd6f40a6cd99",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: 2025 01 25 20 16 56 Tour of It",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "parmigiana_meet_05_cacio_e_pepe_dinner_plate.jpg",
+      "size_kb": 172.59,
+      "md5": "b8536c84129ceba4ec549d6ceecdc880",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: cacio e pepe dinner plate",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "parmigiana_meet_06_Leopold_Hotel_parmi.jpg",
+      "size_kb": 209.33,
+      "md5": "dbff97e015612064df593b540db37d72",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Leopold Hotel parmi",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "parmigiana_meet_07_Making_melanzane_alla_parmigia.jpg",
+      "size_kb": 249.34,
+      "md5": "d658ac0bd8222e34eb5351ebe9f884f7",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Making melanzane alla parmigia",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "parmigiana_meet_08_Melanzane_alla_Parmigiana.jpg",
+      "size_kb": 271.69,
+      "md5": "b35db06d43e314c16e9f17c36e4936f2",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Melanzane alla Parmigiana",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "parmigiana_meet_09_Parmiggiana_-_Pizza_500_2024-1.jpg",
+      "size_kb": 181.09,
+      "md5": "1998d2f8a8550723d5bbf3523632fa9c",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Parmiggiana Pizza 500 2024 1",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "parmigiana_meet_10_2021-02-23_20_32_29_Eggplant_p.jpg",
+      "size_kb": 256.86,
+      "md5": "3ae49d2f77196a397f4ae7196ff3585e",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: 2021 02 23 20 32 29 Eggplant p",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "parmigiana_meet_11_2023-01-28_18_49_35_Eggplant_p.jpg",
+      "size_kb": 149.56,
+      "md5": "aed5f9d9c540d7b0297f6c57e27fbd80",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: 2023 01 28 18 49 35 Eggplant p",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "parmigiana_meet_12_Eggplant_Parmigiana_-_The_Fat_.jpg",
+      "size_kb": 210.58,
+      "md5": "db72909215862bb7ebaf933f30cfb656",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Eggplant Parmigiana The Fat",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "parmigiana_meet_13_Chicken_Parmigiana_with_angel_.jpg",
+      "size_kb": 279.48,
+      "md5": "0d5b478a8689dbe5ea45cd485fa991a3",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Chicken Parmigiana with angel",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "parmigiana_meet_14_Baked_pasta_with_meat_sauce_an.jpg",
+      "size_kb": 179.74,
+      "md5": "a9d0d72af6541ce05373d4364a90de3d",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Baked pasta with meat sauce an",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "parmigiana_meet_15_Day_21_-_The_Bread_of_the_Earth.jpg",
+      "size_kb": 127.28,
+      "md5": "24c252df9fb6965cfab2f71272e45937",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Day 21 The Bread of the Earth",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "parmigiana_meet_16_Liat_Portal_for_Foodie_Disorde.jpg",
+      "size_kb": 165.45,
+      "md5": "f27a24105c89692a0c0d0efe89c7325f",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Liat Portal for Foodie Disorde",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "parmigiana_meet_17_Orecchiette_con_cime_di_rapa_-.jpg",
+      "size_kb": 153.81,
+      "md5": "27d980c85aa7b993c37970e0523ad38a",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Orecchiette con cime di rapa",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "parmigiana_meet_18_Oven-Baked_Pasta_Pizza_Hut_Ber.jpg",
+      "size_kb": 210.78,
+      "md5": "a6e87438bd2c3926215f5aa6fd36002a",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Oven Baked Pasta Pizza Hut Ber",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "parmigiana_meet_19_Dinner-_baked_halibut_and_orga.jpg",
+      "size_kb": 148.6,
+      "md5": "b7c98fccd8d775968b9d49e8ec5a06f2",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Dinner baked halibut and orga",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "parmigiana_meet_20_Spinach_Artichoke_Ravioli.jpg",
+      "size_kb": 221.83,
+      "md5": "a37ac5cc49f729a18b71f9e9eedceaa0",
+      "description": "Artisanal Artisanal Parmigiana Gastronomy & Evening Dining: Spinach Artichoke Ravioli",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://parmigianameet.com/sitemap.xml",
+    "robots": "https://parmigianameet.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
